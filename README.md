@@ -8,4 +8,6 @@ Running
 
 Navigate to `src` to find and view the notebook; all the pertinent analysis resides there.
 
+Or simply click [here](https://github.com/yourdon/west-nile/blob/master/src/west_nile.ipynb).
+
 To tinker with the notebook locally, you will need IPython and all of the standard scientific libraries installed.
